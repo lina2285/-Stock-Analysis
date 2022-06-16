@@ -120,10 +120,12 @@ When refactoring the code, I was able to resuse some of the previous code to set
 ###Summary
 ##Advantages of refactoring code
 
-Refactoring code has advantages that mainly assist in making the code cleaner, more organized and easier to follow for oneself and for others looking at the code. Refactoring improves the desing, makes it easier to understand, helps finding bugs and helps programming faster. In the case of this project, it improved the macro run time. The new code took about 0.27 seconds to run, where the old code took about one full second. 
+Refactoring code has advantages that mainly assist in making the code cleaner, more organized and easier to follow for oneself and for others looking at the code. Refactoring improves the desing, makes it easier to understand, and easier to maintain. In the case of this project, it improved the macro run time. The new code took about 0.27 seconds to run, where the old code took about one full second. 
 [2017 macro run time](https://github.com/lina2285/-Stock-Analysis/blob/main/All%20Stocks%202017%20time%20window.png)
+
 [2018 macro run time](https://github.com/lina2285/-Stock-Analysis/blob/main/All%20Stocks%202018%20time%20window.png)
 
 
 ##Disadvatages of refactoring code
 
+Refactoring code also has its disadvantages, which include it being very time consuming. It is also very easy to make mistakes and it takes very long to find and fix them. 
