@@ -123,7 +123,7 @@ When refactoring the code, I was able to resuse some of the previous code to set
 Refactoring code has advantages that mainly assist in making the code cleaner, more organized and easier to follow for oneself and for others looking at the code. Refactoring improves the desing, makes it easier to understand, and easier to maintain. In the case of this project, it improved the macro run time. The new code took about 0.27 seconds to run, where the old code took about one full second. 
 [VBA_Challenge_2017](https://github.com/lina2285/-Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
-[VBA_Challenge_2018](https://github.com/lina2285/-Stock-Analysis/blob/main/All%20Stocks%202018%20time%20window.png)
+[VBA_Challenge_2018](https://github.com/lina2285/-Stock-Analysis/blob/main/VBA_Challenge_2018.png)
 
 
 ##Disadvatages of refactoring code
